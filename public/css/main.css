@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: 60px;
+    color: aliceblue;
+    text-align: center;
+}
+h5 {
+    font-size: 20px;
+    color: aliceblue;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
